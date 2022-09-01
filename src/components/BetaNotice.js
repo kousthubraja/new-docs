@@ -26,7 +26,7 @@ export const BetaNotice = () => (
   <>
     <BetaNoticeEl>
       Please submit any typos you come across to{" "}
-      <LinkEl href="https://github.com/stellar/new-docs/issues">
+      <LinkEl href="https://github.com/newrlfoundation/newrl/issues">
         GitHub issues
       </LinkEl>
       .

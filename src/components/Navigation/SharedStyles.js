@@ -9,7 +9,7 @@ import {
   REDESIGN_PALETTE,
 } from "constants/styles";
 
-import Logo from "assets/icons/stellar-logo.svg";
+import Logo from "assets/icons/newrl-logo.svg";
 
 import { Column } from "basics/Grid";
 import { Image } from "basics/Images";
